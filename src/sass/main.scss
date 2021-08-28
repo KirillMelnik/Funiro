@@ -3,5 +3,8 @@
  * Все паршалы подключаются сюда.
  */
 @import './base/common';
+@import './utils/mixin-fonts';
+@import './utils/variables';
+@import './base/container';
 @import './layout/header';
 // Стили для файла с примером HTML-фрагмента
