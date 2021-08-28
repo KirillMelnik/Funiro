@@ -6,7 +6,7 @@
   "homepage": "https://KirillMelnik.github.io/Funiro",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Funiro/"
+    "build": "parcel build src/*.html --public-url/Funiro/"
   },
   "repository": {
     "type": "git",
